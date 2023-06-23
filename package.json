@@ -48,7 +48,7 @@
     "jest-environment-jsdom-fourteen": "^0.1.0",
     "jest-serializer-html": "^7.0.0",
     "lerna": "^3.16.2",
-    "semver": "^6.2.0",
+    "semver": "^7.5.2",
     "shelljs": "^0.8.3",
     "ts-jest": "^24.1.0",
     "tslint": "^5.20.1",
